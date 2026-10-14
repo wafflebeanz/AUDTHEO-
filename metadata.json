@@ -1,0 +1,6 @@
+{
+  "name": "CPA Auditing Theory Reviewer & Pet Quizzer",
+  "description": "Interactive, web-based CPA Review quizzer based on CPAR Auditing Theory (AT-10001 to AT-10012+) with milestone pet evolutions, verbatim notes drawer, and mnemonics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
